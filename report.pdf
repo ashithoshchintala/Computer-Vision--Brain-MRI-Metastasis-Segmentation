@@ -1,0 +1,13 @@
+Summary
+Outline the problem (brain metastasis segmentation).
+
+Detail the approach for each model and the results (DICE scores) comparing both Nested U-Net and Attention U-Net.
+
+Challenges
+Describe the main challenges encountered, such as handling noisy or inconsistent data, and how preprocessing methods like CLAHE improved model performance.
+
+Future Work
+Discuss potential improvements, such as experimenting with more advanced attention mechanisms or leveraging transfer learning.
+
+Conclusion
+By following this structured approach, you will be able to deliver a solid solution for brain MRI metastasis segmentation, showcasing both your technical ability and your understanding of the clinical significance of accurate segmentation.
